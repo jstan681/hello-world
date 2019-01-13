@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+First attempt at making an committing a change.
